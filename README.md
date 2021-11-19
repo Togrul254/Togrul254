@@ -1,4 +1,4 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suleymanmv&show_icons=true&locale=en" alt="suleymanmv" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Togrul254&show_icons=true&locale=en" alt="suleymanmv" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Webstorm" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" />
