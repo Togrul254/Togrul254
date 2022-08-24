@@ -23,5 +23,9 @@
 <br/>
 
 <h3 align="left">🏆 Latest Projects</h3>
+- https://smsradar.az <br/>
 - https://app.fogito.com <br/>
-- http://mobilex.az <br/
+- https://melumat.az <br/>
+- http://mobilex.az <br/>
+- https://press.az <br/>
+- https://www.navimax.net <br/>
