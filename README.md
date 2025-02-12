@@ -1,3 +1,4 @@
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togrul254&theme=radical" alt="GitHub Streak Stats" />
 </p>
@@ -36,13 +37,6 @@
 🚀 [Mobilex](http://mobilex.az)  
 🚀 [Press.az](https://press.az)  
 🚀 [Navimax](https://www.navimax.net)  
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togrul254&theme=radical" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
