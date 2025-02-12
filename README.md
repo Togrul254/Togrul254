@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Togrul254&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Togrul254&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Togrul</h1>
 <h3 align="center">A passionate Frontend (React JS) developer from Azerbaijan</h3>
